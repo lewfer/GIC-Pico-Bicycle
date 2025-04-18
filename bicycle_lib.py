@@ -37,7 +37,7 @@ def displayValue(value):
         display.show()
         display_time_stamp = new_display_time_stamp
 
-# Track the current motor speed
+# Track the current motor speed (0-100)
 currentSpeed = 0
 actualSpeed = 0
 
